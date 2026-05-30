@@ -101,9 +101,12 @@ print(me.motto())
 
 <div align="center">
 
-<img height="170" alt="Pawaz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pawaz123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaz123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
+<!-- Stats Card - using profile-summary-cards which works for low-activity accounts -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawaz123&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawaz123&theme=tokyonight" width="32%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawaz123&theme=tokyonight" width="32%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawaz123&theme=tokyonight" width="32%" alt="Commit Language"/>
 
 </div>
 
@@ -133,7 +136,8 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pawaz123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="pawaz123 trophies"/>
+<!-- rank parameter ensures trophies show even for newer accounts -->
+<img src="https://github-profile-trophy.vercel.app/?username=pawaz123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
