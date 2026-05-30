@@ -132,16 +132,21 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Milestones & Highlights
 
 <div align="center">
 
-<!-- rank parameter ensures trophies show even for newer accounts -->
-<img src="https://github-profile-trophy.vercel.app/?username=pawaz123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+![Robotics Intern](https://img.shields.io/badge/🤖_Robotics_Intern-ComedKares_Innovation_Hub-70a5fd?style=for-the-badge&labelColor=0d1117)
+![Java Certified](https://img.shields.io/badge/☕_Java_Certified-Infosys_OnWingspan-bf91f3?style=for-the-badge&labelColor=0d1117)
+![IoT Builder](https://img.shields.io/badge/📡_IoT_Builder-NFC_Pulse_System-38bdae?style=for-the-badge&labelColor=0d1117)
+![3D Maker](https://img.shields.io/badge/🖨️_3D_Maker-Enclosure_Designer-f7768e?style=for-the-badge&labelColor=0d1117)
+![HackerRank](https://img.shields.io/badge/🧩_HackerRank-Active_Coder-2cbe4e?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/🌐_Open_Source-GitHub_Active-e8a838?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
+
 
 ## 💼 Experience
 
