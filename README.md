@@ -78,7 +78,7 @@ print(me.motto())
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![Raspberry Pi](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
 
 **Database & Cloud**
 
@@ -91,7 +91,7 @@ print(me.motto())
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![EasyEDA](https://img.shields.io/badge/EasyEDA-1E88E5?style=flat-square&logo=data:image/png;base64,&logoColor=white)](https://easyeda.com/)
+[![EasyEDA](https://img.shields.io/badge/EasyEDA-1E88E5?style=flat-square&logoColor=white)](https://easyeda.com/)
 [![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 
@@ -101,12 +101,9 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/pawaz123">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=pawaz123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/pawaz123">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaz123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img height="170" alt="Pawaz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pawaz123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaz123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
@@ -136,7 +133,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pawaz123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/pawaz123)
+<img src="https://github-profile-trophy.vercel.app/?username=pawaz123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="pawaz123 trophies"/>
 
 </div>
 
